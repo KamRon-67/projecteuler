@@ -1,0 +1,16 @@
+C:\Users\Red\Documents\code\c#\projecteuler\bin\Debug\net5.0\projecteuler.exe
+C:\Users\Red\Documents\code\c#\projecteuler\bin\Debug\net5.0\projecteuler.deps.json
+C:\Users\Red\Documents\code\c#\projecteuler\bin\Debug\net5.0\projecteuler.runtimeconfig.json
+C:\Users\Red\Documents\code\c#\projecteuler\bin\Debug\net5.0\projecteuler.runtimeconfig.dev.json
+C:\Users\Red\Documents\code\c#\projecteuler\bin\Debug\net5.0\projecteuler.dll
+C:\Users\Red\Documents\code\c#\projecteuler\bin\Debug\net5.0\ref\projecteuler.dll
+C:\Users\Red\Documents\code\c#\projecteuler\bin\Debug\net5.0\projecteuler.pdb
+C:\Users\Red\Documents\code\c#\projecteuler\obj\Debug\net5.0\projecteuler.csprojAssemblyReference.cache
+C:\Users\Red\Documents\code\c#\projecteuler\obj\Debug\net5.0\projecteuler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Red\Documents\code\c#\projecteuler\obj\Debug\net5.0\projecteuler.AssemblyInfoInputs.cache
+C:\Users\Red\Documents\code\c#\projecteuler\obj\Debug\net5.0\projecteuler.AssemblyInfo.cs
+C:\Users\Red\Documents\code\c#\projecteuler\obj\Debug\net5.0\projecteuler.csproj.CoreCompileInputs.cache
+C:\Users\Red\Documents\code\c#\projecteuler\obj\Debug\net5.0\projecteuler.dll
+C:\Users\Red\Documents\code\c#\projecteuler\obj\Debug\net5.0\ref\projecteuler.dll
+C:\Users\Red\Documents\code\c#\projecteuler\obj\Debug\net5.0\projecteuler.pdb
+C:\Users\Red\Documents\code\c#\projecteuler\obj\Debug\net5.0\projecteuler.genruntimeconfig.cache
